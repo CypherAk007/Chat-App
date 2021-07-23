@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "564276917337",
+    "firebase_url": "https://chatapp-95a78-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-95a78",
+    "storage_bucket": "chatapp-95a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564276917337:android:250913722462185f33ad48",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_giXeryx_2Um6-8x1NFuNpXSUzCRq2Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564276917337:android:f046328797f6e3c933ad48",
+        "android_client_info": {
+          "package_name": "com.example.modernchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_giXeryx_2Um6-8x1NFuNpXSUzCRq2Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564276917337:android:8c6b5b6125f3f64a33ad48",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_giXeryx_2Um6-8x1NFuNpXSUzCRq2Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564276917337-oujackajef3ib492ftcuj6089s1r9gbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
